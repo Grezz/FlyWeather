@@ -53,10 +53,10 @@ return array(
 		// uncomment the following to use a MySQL database
 		
 		'db'=>array(
-			'connectionString' => 'mysql:host=localhost;dbname=para_place',
+			'connectionString' => 'mysql:host=127.4.246.2:127.4.246.2;dbname=flyweather',
 			'emulatePrepare' => true,
-			'username' => 'root',
-			'password' => '',
+			'username' => 'adminbeM5Fgi',
+			'password' => 'HbQ7Sc95J9rD',
 			'charset' => 'utf8',
 		),
 		
