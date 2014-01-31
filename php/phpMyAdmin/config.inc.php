@@ -11,14 +11,14 @@ $i = 0;
 /* Server: localhost [1] */
 $i++;
 $cfg['Servers'][$i]['verbose'] = '';
-$cfg['Servers'][$i]['host'] = 'localhost';
+$cfg['Servers'][$i]['host'] = 'mysql://127.4.246.2:3306/';
 $cfg['Servers'][$i]['port'] = '';
 $cfg['Servers'][$i]['socket'] = '';
 $cfg['Servers'][$i]['connect_type'] = 'tcp';
 $cfg['Servers'][$i]['extension'] = 'mysql';
 $cfg['Servers'][$i]['auth_type'] = 'cookie';
-$cfg['Servers'][$i]['user'] = 'root';
-$cfg['Servers'][$i]['password'] = '';
+$cfg['Servers'][$i]['user'] = 'adminbeM5Fgi';
+$cfg['Servers'][$i]['password'] = 'HbQ7Sc95J9rD';
 $cfg['Servers'][$i]['AllowNoPassword'] = true;
 
 /* End of servers configuration */
